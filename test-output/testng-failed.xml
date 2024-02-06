@@ -7,7 +7,6 @@
         <methods>
           <include name="LoginFailiureTest"/>
           <include name="SetUp"/>
-          <include name="LoginSuccessTest"/>
           <include name="TearDown"/>
         </methods>
       </class> <!-- testcases.LoginTest -->
